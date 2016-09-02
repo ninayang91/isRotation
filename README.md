@@ -1,0 +1,2 @@
+# isRotation
+waterbottle -> erbottlewat true
